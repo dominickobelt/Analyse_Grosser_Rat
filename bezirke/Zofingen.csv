@@ -1,14 +1,16 @@
-Name,Partei,Ort,Link,ID Politiker,Bezirk,Anzahl Vorstösse
-Bossert Martin,SVP,Rothrist,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887874,4887874,Bezirk Zofingen,3
-Hottiger Hans-Ruedi,Die Mitte,Zofingen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=88881,88881,Bezirk Zofingen,3
-Hottiger Tobias,FDP,Zofingen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887885,4887885,Bezirk Zofingen,3
-Freiermuth Sabina,FDP,Zofingen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=90325,90325,Bezirk Zofingen,2
-Giezendanner Stefan,SVP,Zofingen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887882,4887882,Bezirk Zofingen,2
-Gabriel Markus,SVP,Uerkheim,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=111067,111067,Bezirk Zofingen,1
-Hunziker Erich,SVP,Kirchleerau,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4478699,4478699,Bezirk Zofingen,1
-Plüss Urs,EVP,Zofingen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=102454,102454,Bezirk Zofingen,1
-Walser Rolf,SP,Aarburg,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4517811,4517811,Bezirk Zofingen,1
-Gerhard Kurt,SVP,Brittnau,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4529369,4529369,Bezirk Zofingen,0
-Gresch Dominik,GLP,Zofingen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887883,4887883,Bezirk Zofingen,0
-Hölzle Daniel,Grüne,Zofingen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=102452,102452,Bezirk Zofingen,0
-Sommer Alice,Grüne,Zofingen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887897,4887897,Bezirk Zofingen,0
+Name,Partei,Ort,Link,ID Politiker,Bezirk,Fraktion,Anzahl Vorstösse
+Bossert Martin,EDU,Rothrist,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887874,4887874,Bezirk Zofingen,SVP/EDU,3
+Hottiger Hans-Ruedi,Die Mitte,Zofingen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=88881,88881,Bezirk Zofingen,Die Mitte,3
+Hottiger Tobias,FDP,Zofingen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887885,4887885,Bezirk Zofingen,FDP,3
+Freiermuth Sabina,FDP,Zofingen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=90325,90325,Bezirk Zofingen,FDP,2
+Giezendanner Stefan,SVP,Zofingen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887882,4887882,Bezirk Zofingen,SVP/EDU,2
+Gabriel Markus,SVP,Uerkheim,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=111067,111067,Bezirk Zofingen,SVP/EDU,1
+Hunziker Erich,SVP,Kirchleerau,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4478699,4478699,Bezirk Zofingen,SVP/EDU,1
+Plüss Urs,EVP,Zofingen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=102454,102454,Bezirk Zofingen,EVP,1
+Walser Rolf,SP,Aarburg,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4517811,4517811,Bezirk Zofingen,SP,1
+Gerhard Kurt,SVP,Brittnau,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4529369,4529369,Bezirk Zofingen,SVP/EDU,0
+Glur Christian,SVP,Murgenthal,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=88885,88885,Bezirk Zofingen,SVP/EDU,0
+Gresch Dominik,GLP,Zofingen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887883,4887883,Bezirk Zofingen,GLP,0
+Hölzle Daniel,Grüne,Zofingen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=102452,102452,Bezirk Zofingen,Grüne,0
+Sommer Alice,Grüne,Zofingen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887897,4887897,Bezirk Zofingen,Grüne,0
+Syed Rahela,SP,Zofingen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=116948,116948,Bezirk Zofingen,SP,0

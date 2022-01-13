@@ -1,11 +1,11 @@
-Name,Partei,Ort,Link,ID Politiker,Bezirk,Anzahl Vorstösse
-Hasler Kathrin,SVP,Hellikon,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=102448,102448,Bezirk Rheinfelden,5
-Bieber Béa,GLP,Rheinfelden,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4684063,4684063,Bezirk Rheinfelden,4
-Kaufmann Alfons Paul,Die Mitte,Wallbach,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=111040,111040,Bezirk Rheinfelden,4
-Stutz Désirée,SVP,Möhlin,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=111038,111038,Bezirk Rheinfelden,4
-Rohrer Claudia,SP,Rheinfelden,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=111039,111039,Bezirk Rheinfelden,3
-Binder-Meury Carole,SP,Magden,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887872,4887872,Bezirk Rheinfelden,2
-Käser Beat,FDP,Stein,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887887,4887887,Bezirk Rheinfelden,2
-Fischer Bargetzi Andreas,Grüne,Möhlin,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=109909,109909,Bezirk Rheinfelden,1
-Scholl Bernhard,FDP,Möhlin,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=60810,60810,Bezirk Rheinfelden,1
-Steinacher Andy,SVP,Schupfart,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4519372,4519372,Bezirk Rheinfelden,1
+Name,Partei,Ort,Link,ID Politiker,Bezirk,Fraktion,Anzahl Vorstösse
+Hasler Kathrin,SVP,Hellikon,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=102448,102448,Bezirk Rheinfelden,SVP/EDU,5
+Bieber Béa,GLP,Rheinfelden,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4684063,4684063,Bezirk Rheinfelden,GLP,4
+Kaufmann Alfons Paul,Die Mitte,Wallbach,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=111040,111040,Bezirk Rheinfelden,Die Mitte,4
+Stutz Désirée,SVP,Möhlin,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=111038,111038,Bezirk Rheinfelden,SVP/EDU,4
+Rohrer Claudia,SP,Rheinfelden,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=111039,111039,Bezirk Rheinfelden,SP,3
+Binder-Meury Carole,SP,Magden,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887872,4887872,Bezirk Rheinfelden,SP,2
+Käser Beat,FDP,Stein,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887887,4887887,Bezirk Rheinfelden,FDP,2
+Fischer Bargetzi Andreas,Grüne,Möhlin,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=109909,109909,Bezirk Rheinfelden,Grüne,1
+Scholl Bernhard,FDP,Möhlin,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=60810,60810,Bezirk Rheinfelden,FDP,1
+Steinacher Andy,SVP,Schupfart,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4519372,4519372,Bezirk Rheinfelden,SVP/EDU,1

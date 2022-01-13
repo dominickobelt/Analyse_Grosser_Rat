@@ -1,8 +1,8 @@
-Name,Partei,Ort,Link,ID Politiker,Bezirk,Anzahl Vorstösse
-Basler Colette,SP,Zeihen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=109111,109111,Bezirk Laufenburg,11
-Häseli Gertrud,Grüne,Wittnau,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=87999,87999,Bezirk Laufenburg,3
-Müller Werner,Die Mitte,Wittnau,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=3679914,3679914,Bezirk Laufenburg,3
-Riner Christoph,SVP,Zeihen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=87577,87577,Bezirk Laufenburg,2
-Suter Emanuel,SVP,Gipf-Oberfrick,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887898,4887898,Bezirk Laufenburg,2
-Tüscher Bruno,FDP,Münchwilen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4520943,4520943,Bezirk Laufenburg,2
-Burgener Elisabeth,SP,Gipf-Oberfrick,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=67555,67555,Bezirk Laufenburg,1
+Name,Partei,Ort,Link,ID Politiker,Bezirk,Fraktion,Anzahl Vorstösse
+Basler Colette,SP,Zeihen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=109111,109111,Bezirk Laufenburg,SP,11
+Häseli Gertrud,Grüne,Wittnau,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=87999,87999,Bezirk Laufenburg,Grüne,3
+Müller Werner,Die Mitte,Wittnau,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=3679914,3679914,Bezirk Laufenburg,Die Mitte,3
+Riner Christoph,SVP,Zeihen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=87577,87577,Bezirk Laufenburg,SVP/EDU,2
+Suter Emanuel,SVP,Gipf-Oberfrick,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887898,4887898,Bezirk Laufenburg,SVP/EDU,2
+Tüscher Bruno,FDP,Münchwilen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4520943,4520943,Bezirk Laufenburg,FDP,2
+Burgener Elisabeth,SP,Gipf-Oberfrick,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=67555,67555,Bezirk Laufenburg,SP,1

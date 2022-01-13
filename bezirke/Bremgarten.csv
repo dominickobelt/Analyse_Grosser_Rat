@@ -1,17 +1,17 @@
-Name,Partei,Ort,Link,ID Politiker,Bezirk,Anzahl Vorstösse
-Bodmer René,SVP,Unterlunkhofen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=102380,102380,Bezirk Bremgarten,6
-Hagenbuch Christoph,SVP,Oberlunkhofen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=113118,113118,Bezirk Bremgarten,6
-Leitch-Frey Thomas,SP,Wohlen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=25055,25055,Bezirk Bremgarten,6
-Lütolf Harry,Die Mitte,Wohlen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=115068,115068,Bezirk Bremgarten,5
-Hilfiker Silvan,FDP,Oberlunkhofen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=102594,102594,Bezirk Bremgarten,4
-Brem-Ingold Rita,Die Mitte,Oberwil-Lieli,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887875,4887875,Bezirk Bremgarten,3
-Peter Dominik,GLP,Bremgarten,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=114907,114907,Bezirk Bremgarten,3
-Vogt Roland,SVP,Wohlen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=117811,117811,Bezirk Bremgarten,3
-Huber Lukas,GLP,Berikon,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887886,4887886,Bezirk Bremgarten,2
-Koch Wick Karin,Die Mitte,Bremgarten,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4088129,4088129,Bezirk Bremgarten,2
-Lüthy Gabriel,FDP,Widen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=111068,111068,Bezirk Bremgarten,2
-Perroud Arsène,SP,Wohlen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=114896,114896,Bezirk Bremgarten,2
-Büchi Roland,SVP,Wohlen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887876,4887876,Bezirk Bremgarten,1
-Dietschi Markus,Grüne,Widen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4067782,4067782,Bezirk Bremgarten,1
-Gratwohl Mario,SVP,Niederwil,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4478120,4478120,Bezirk Bremgarten,1
-Stierli Walter,SVP,Fischbach-Göslikon,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=69593,69593,Bezirk Bremgarten,0
+Name,Partei,Ort,Link,ID Politiker,Bezirk,Fraktion,Anzahl Vorstösse
+Bodmer René,SVP,Unterlunkhofen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=102380,102380,Bezirk Bremgarten,SVP/EDU,6
+Hagenbuch Christoph,SVP,Oberlunkhofen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=113118,113118,Bezirk Bremgarten,SVP/EDU,6
+Leitch-Frey Thomas,SP,Wohlen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=25055,25055,Bezirk Bremgarten,SP,6
+Lütolf Harry,Die Mitte,Wohlen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=115068,115068,Bezirk Bremgarten,Die Mitte,5
+Hilfiker Silvan,FDP,Oberlunkhofen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=102594,102594,Bezirk Bremgarten,FDP,4
+Brem-Ingold Rita,Die Mitte,Oberwil-Lieli,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887875,4887875,Bezirk Bremgarten,Die Mitte,3
+Peter Dominik,GLP,Bremgarten,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=114907,114907,Bezirk Bremgarten,GLP,3
+Vogt Roland,SVP,Wohlen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=117811,117811,Bezirk Bremgarten,SVP/EDU,3
+Huber Lukas,GLP,Berikon,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887886,4887886,Bezirk Bremgarten,GLP,2
+Koch Wick Karin,Die Mitte,Bremgarten,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4088129,4088129,Bezirk Bremgarten,Die Mitte,2
+Lüthy Gabriel,FDP,Widen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=111068,111068,Bezirk Bremgarten,FDP,2
+Perroud Arsène,SP,Wohlen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=114896,114896,Bezirk Bremgarten,SP,2
+Büchi Roland,SVP,Wohlen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4887876,4887876,Bezirk Bremgarten,SVP/EDU,1
+Dietschi Markus,Grüne,Widen,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4067782,4067782,Bezirk Bremgarten,Grüne,1
+Gratwohl Mario,SVP,Niederwil,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=4478120,4478120,Bezirk Bremgarten,SVP/EDU,1
+Stierli Walter,SVP,Fischbach-Göslikon,https://www.ag.ch/grossrat/grweb/de/185/Detail%20Adresse?AdrId=69593,69593,Bezirk Bremgarten,SVP/EDU,0
