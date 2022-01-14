@@ -12,7 +12,7 @@ Ich gehe davon aus, dass sich die Zeit, die die Grossrätinnen und Grossräte am
 Die Analyse besteht aus zwei Teilen:
 
 #### 1. Audioanalyse
-Der Grosser Rat Aargau verfügt über ein <a href="https://ag.recapp.ch/" target="_blank">Audioarchiv</a>, das bis zum August 2019 zurückreicht. Darin sind alle Wortmeldungen inklusive Zeitangabe erfasst. Die Seite verfügt über eine API, die aber nicht dokumentiert ist. Das von mir erarbeitete Python-Script soll anhand der Datenbank ausrechenen, wie oft eine Person gesprochen hat, wie lange sie insgesamt gesprochen hat und wie lange eine durschnittliche Wortmeldung war.
+Der Grosser Rat Aargau verfügt über ein <a href="https://ag.recapp.ch" target="_blank">Audioarchiv</a>, das bis zum August 2019 zurückreicht. Darin sind alle Wortmeldungen inklusive Zeitangabe erfasst. Die Seite verfügt über eine API, die aber nicht dokumentiert ist. Das von mir erarbeitete Python-Script soll anhand der Datenbank ausrechenen, wie oft eine Person gesprochen hat, wie lange sie insgesamt gesprochen hat und wie lange eine durschnittliche Wortmeldung war.
 
 In einem zweiten Schritt möchte ich die Redezeit aus den Fraktionen zusammenrechnen und so herausfinden, welche Partei am meisten und welche am wenigsten Redezeit für sich in Anspruch genommen hat.
 
