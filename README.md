@@ -32,8 +32,8 @@ Beim Erarbeiten des Projekts bin ich auf verschiedene Porbleme gestossen. Hier e
 
 #### Audioanalyse
 - Da eine Dokumentation der API fehlt, musste ich zuerst herausfinden, wie die Variablen benannt sind, die ich benötige. In zwei Punkten musste ich externe Hilfe beiziehen:
--- Auf der Startseite sind alle Redner in einem Dorpdown-Menü. Allerdings konnte ich im Quelltext die entsprechenden ID's nicht finden, die die Seite dann übermittelt, um die Resultate zu einer Person aufzuführen. Unser Dozent Simon Schmid (Republik) konnte dieses Problem lösen und hat die Adresse im Reiter "Sources" entdeckt. Die Liste der Redner ist zu finden unter https://ag.recapp.ch/viewer/api/speaker. Dort wird für würd für jede Person die ID angegeben. 
--- Eine weiter Schwirigkeit war, zu den jeweiligen Personen das ganze Ergebnis abzurufen. 
+    - Auf der Startseite sind alle Redner in einem Dorpdown-Menü. Allerdings konnte ich im Quelltext die entsprechenden ID's nicht finden, die die Seite dann übermittelt, um die Resultate zu einer Person aufzuführen. Unser Dozent Simon Schmid (Republik) konnte dieses Problem lösen und hat die Adresse im Reiter "Sources" entdeckt. Die Liste der Redner ist zu finden unter https://ag.recapp.ch/viewer/api/speaker. Dort wird für würd für jede Person die ID angegeben. 
+    - Eine weiter Schwirigkeit war, zu den jeweiligen Personen das ganze Ergebnis abzurufen. 
 
 _Kurze Zusammenfassung des Gesprächs mit einer Briefing Person
 _Datensatz (auch bereits strukturierte Daten können verwendet werden)
