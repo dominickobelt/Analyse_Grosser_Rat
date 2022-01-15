@@ -53,7 +53,7 @@ Meinen Datensatz habe ich mir aus verschiedenen Quellen geholt:
 - Die Liste aller Gemeinden des jeweiligen Bezirks, z.B. Baden, von [Wikipedia](https://de.wikipedia.org/wiki/Bezirk_Baden_(Aargau))
 
 ## Programmcode
-Der Code des Scripts ist auf dieser Seite abgelegt, er umfasst die beiden Files <b>Vorstösse</b> und <b>Audiofiles analysieren</b>
+Der Code des Scripts ist auf dieser Seite abgelegt, er umfasst die beiden Files <b>Vorstösse</b> und <b>Audiofiles analysieren</b>.
 
 ## Arbeitsprotokoll 
 
@@ -155,4 +155,4 @@ Der Code des Scripts ist auf dieser Seite abgelegt, er umfasst die beiden Files 
 ## Nachzug
 [Jetzt reden die «Schweiger» aus dem Grossen Rat – und die «Redseligen» erklären sich auch](https://www.aargauerzeitung.ch/aargau/kanton-aargau/datenanalyse-jetzt-reden-die-schweiger-aus-dem-grossen-rat-und-die-redseligen-erklaeren-sich-auch-ld.2237317)
 
-<i>Herzlichen Dank an die Dozenten Barnaby Skinner, Thomas Ebermann, Alexandra Stark, Lea Senn und Mark Walther, und an das Team der Aargauer Zeitung, das mich bei dieser Arbeit mit vielen Anregungen und bei der Umsetzung unterstützt hat.</i>
+<i>Herzlichen Dank an die Dozenten Barnaby Skinner, Thomas Ebermann, Simon Schmid, Alexandra Stark, Lea Senn und Mark Walther, und an das Team der Aargauer Zeitung, das mich bei der Umsetzung unterstützt hat.</i>
