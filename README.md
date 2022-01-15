@@ -46,7 +46,10 @@ Wir haben die Arbeit im Team besprochen. Die Idee, die Redezeit nicht nur für e
 
 ## Datensatz
 Meinen Datensatz habe ich mir aus verschiedenen Quellen geholt:
-- Die Liste aller Grossräte von der Website des Kantons Aargau: https://www.ag.ch/grossrat/grweb/de/164/Ratsmitglieder?ResetBreadCrumbs=T
+- Die Liste aller Grossräte von der [Website des Kantons Aargau](https://www.ag.ch/grossrat/grweb/de/164/Ratsmitglieder?ResetBreadCrumbs=T)
+- Die Liste aller Motionen, Postulate, Interpellationen und parlamentarische Initiativen, jeweils einzeln als csv  [von der Website des Kantons](https://www.ag.ch/grossrat/grweb/de/196/Gesch%C3%A4fte?ResetBreadCrumbs=T&ResetFilter=T)
+- Sämtliche Angaben zu den Redezeiten aus dem [Audioarchiv](https://ag.recapp.ch/viewer/)
+- Die Liste aller Gemeinden des jeweiligen Bezirks, z.B. Baden, von [Wikipedia](https://de.wikipedia.org/wiki/Bezirk_Baden_(Aargau))
 
     
     
