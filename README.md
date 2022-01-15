@@ -136,6 +136,7 @@ Der Code des Scripts ist auf dieser Seite abgelegt, er umfasst die beiden Files 
 
 ### 9. Januar
 - Grafiken erstellen, probiere verschiedene Darstellungen aus. Input von Chefredaktor Rolf Cavalli: Die schweigenden Grossräte möchte man auch sehen, deshalb hier auch noch eine Grafik erstellt. 
+- Redezeit ist in Sekunden angegeben, mit Formel umgerechnet.
 
 ### 10. Januar
 - Letzte Arbeiten zur Finalisierung, Anpassung einiger Grafiken, Artikel im Print angepasst.
