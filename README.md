@@ -5,7 +5,6 @@ In meiner Arbeit möchte ich die Grossrätinnen und Grossräte genauer unter die
 
 Diese Arbeit ist im Zuge meiner Ausbildung CAS Datenjournalismus am Medienausbildungszentrum (MAZ) Luzern entstanden.
 
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 ### Ausgangsthese
 Ich gehe davon aus, dass sich die Zeit, die die Grossrätinnen und Grossräte am Rednerpult verbringen, stark unterscheiden. Einerseits hat das ganz offensichtliche Gründe: Der Grossratspräsident, der die Sitzungen leitet, oder auch vertreter von Kommissionen, werden mehr Redezeit beanspruchen. Trotzdem gibt es sicherlich solche Politikerinnen und Politiker, die ihre Meinung zu sehr vielen Geschäften kundtun möchten, und andere, die sich eher im Hintergrund halten. Diese möchte ich identifizieren, und in einem Nachzug auch zu den Gründen befragen.
@@ -45,9 +44,12 @@ Beim Erarbeiten des Projekts bin ich auf verschiedene Porbleme gestossen. Hier e
 ## Besprechung mit dem Team
 Wir haben die Arbeit im Team besprochen. Die Idee, die Redezeit nicht nur für einzelne Politikerinnen und Politiker, sondern jeweils auch für die ganze Fraktion auszurechenen, stammt von unserem Potlikchef Fabian Hägler. Chefredaktor Rolf Cavalli hat Inputs zum Titel geliefert und er hat mich darauf aufmerksam gemacht, dass sich die Zwischentitel und die Titel der Grafiken zu oft wiederholen, weshalb ich dann auf Titel für die Grafiken verzichtet habe. Mit Storytelling-Expertin Alexandra Stark habe ich die Geschichte ebenfalls besprochen, von ihr stammt die Idee, die Politikerinnen und Poltiker pro Bezirk zu präsentieren, so dass die Leserinnen und Leser sehen können, wer in ihrem Bezirk wie aktiv war. Zudem haben wir Lead und Einstig besprochen, und dass wir einen Nachzug generieren sollten. Dies haben wir umgesetzt, indem wir <a href="https://www.aargauerzeitung.ch/aargau/kanton-aargau/datenanalyse-jetzt-reden-die-schweiger-aus-dem-grossen-rat-und-die-redseligen-erklaeren-sich-auch-ld.2237317" target="_blank">die "schweigsamen" und die "redseligen" Grossrätinnen und Grossräte am nächsten Tag zum Ergebnis befragt haben.
 
+## Datensatz
+Meinen Datensatz habe ich mir aus verschiedenen Quellen geholt:
+- Die Liste aller Grossräte von der Website des Kantons Aargau: https://www.ag.ch/grossrat/grweb/de/164/Ratsmitglieder?ResetBreadCrumbs=T
 
-
-_Datensatz (auch bereits strukturierte Daten können verwendet werden)
+    
+    
 _Programmiercode
 _Arbeitsprotokoll (Was hast du wann weshalb gemacht?)
 _je nach gewählter Variante 1,2 oder 3: Endprodukt, Skizze des weiteren
