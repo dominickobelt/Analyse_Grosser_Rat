@@ -1,4 +1,4 @@
-# So hat der Grosse Rat Aargau gearbeitet
+# So hat der Grosse Rat Aargau 2021 gearbeitet
 
 ## Eine Analyse verschiedener Quellen, die die Arbeit des Grossen Rats dokumentieren
 In meiner Arbeit möchte ich die Grossrätinnen und Grossräte genauer unter die Lupe nehmen. Das Resultat sollen verschiedene Statistiken sein, anhand derer die Leserinnen und Leser einen Überblick erhalten sollen, welche Parlamentarierinnen und Parlamentarier besonders fleissig, redselig, oder eher ruhig und zurückhaltend waren. Dazu gibt es zwei Quellen, die mit zwei Python-Scripts analysiert werden sollen, die Ergebnisse werden zu einer umfassenden Analyse verbunden.
